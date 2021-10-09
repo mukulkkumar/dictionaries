@@ -11,3 +11,5 @@
 I 'll divide the explanation of dictionaries into different parts
 
 ### Part -1 Create Dictionaries
+
+### Part -2 Common Operations
